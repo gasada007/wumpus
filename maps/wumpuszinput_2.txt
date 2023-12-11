@@ -1,0 +1,10 @@
+10 B 5 E
+WWWWWWWWWW
+W________W
+W__P_____W
+W___U____W
+W__P_____W
+WP_______W
+W_____G__W
+W_____P__W
+WWWWWWWWWW
